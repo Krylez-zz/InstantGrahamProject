@@ -1,0 +1,7 @@
+InstantGraham/build/
+local.properties
+InstantGraham/src/main/gen
+out/
+.gradle/
+.idea/
+*.iml
