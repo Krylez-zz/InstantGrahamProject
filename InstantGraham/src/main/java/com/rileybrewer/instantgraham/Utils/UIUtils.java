@@ -7,6 +7,8 @@ import android.graphics.Bitmap;
  */
 public class UIUtils {
 
+    public static final String IMAGE_PATH = "image-path";
+
     public static final int IMAGE_SIZE = 640;
 
     private static Bitmap sBitmap;

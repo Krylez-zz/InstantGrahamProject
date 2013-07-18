@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">InstantGraham</string>
-    <string name="action_settings">Settings</string>
+    <string name="action_purchase">Purchase</string>
 
 
     <string name="import_photo">Import Photo</string>
